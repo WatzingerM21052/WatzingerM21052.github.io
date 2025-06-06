@@ -1,0 +1,262 @@
+{
+    "easy": [
+        {
+            "question": "Which spirit is the main ingredient in a Mojito?",
+            "options": ["Rum", "Vodka", "Gin", "Tequila"],
+            "answer": 0
+        },
+        {
+            "question": "What gives a Cosmopolitan its pink color?",
+            "options": ["Grenadine", "Cranberry juice", "Lime juice", "Orange juice"],
+            "answer": 1
+        },
+        {
+            "question": "Which cocktail contains coffee liqueur?",
+            "options": ["Margarita", "White Russian", "Mai Tai", "Daiquiri"],
+            "answer": 1
+        },
+        {
+            "question": "Which ingredient is NOT in a classic Margarita?",
+            "options": ["Tequila", "Triple Sec", "Lime Juice", "Cola"],
+            "answer": 3
+        },
+        {
+            "question": "Which cocktail is typically served in a copper mug?",
+            "options": ["Moscow Mule", "Negroni", "Old Fashioned", "Tom Collins"],
+            "answer": 0
+        },
+        {
+            "question": "What is the main spirit in a Negroni?",
+            "options": ["Gin", "Rum", "Whiskey", "Vodka"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail uses mint leaves as a garnish?",
+            "options": ["Mojito", "Martini", "Manhattan", "Bloody Mary"],
+            "answer": 0
+        },
+        {
+            "question": "Which of these is a tiki cocktail?",
+            "options": ["Mai Tai", "Cosmopolitan", "Whiskey Sour", "Aperol Spritz"],
+            "answer": 0
+        },
+        {
+            "question": "Which spirit is used in a classic Martini?",
+            "options": ["Gin", "Rum", "Tequila", "Whiskey"],
+            "answer": 0
+        },
+        {
+            "question": "What is the main ingredient in a Bloody Mary?",
+            "options": ["Tomato juice", "Orange juice", "Pineapple juice", "Cranberry juice"],
+            "answer": 0
+        }
+    ],
+    "medium": [
+        {
+            "question": "Which citrus fruit is used in a classic Daiquiri?",
+            "options": ["Lemon", "Lime", "Orange", "Grapefruit"],
+            "answer": 1
+        },
+        {
+            "question": "What is the main spirit in a Manhattan?",
+            "options": ["Whiskey", "Gin", "Rum", "Vodka"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail is made with gin, vermouth, and Campari?",
+            "options": ["Negroni", "Martini", "Margarita", "Old Fashioned"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail is known for its blue color?",
+            "options": ["Blue Lagoon", "Mai Tai", "Cosmopolitan", "Mojito"],
+            "answer": 0
+        },
+        {
+            "question": "Which ingredient is NOT in a classic Old Fashioned?",
+            "options": ["Sugar", "Bitters", "Orange", "Egg white"],
+            "answer": 3
+        },
+        {
+            "question": "Which cocktail is typically garnished with a cherry?",
+            "options": ["Manhattan", "Margarita", "Mojito", "Bloody Mary"],
+            "answer": 0
+        },
+        {
+            "question": "Which spirit is used in a Tom Collins?",
+            "options": ["Gin", "Rum", "Whiskey", "Tequila"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail contains both rum and coconut cream?",
+            "options": ["Piña Colada", "Margarita", "Cosmopolitan", "Negroni"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail is made with whiskey, lemon juice, and sugar?",
+            "options": ["Whiskey Sour", "Old Fashioned", "Manhattan", "Mint Julep"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail is served in a flute glass?",
+            "options": ["Mimosa", "Mai Tai", "Bloody Mary", "Margarita"],
+            "answer": 0
+        }
+    ],
+    "hard": [
+        {
+            "question": "Which cocktail uses egg white for a frothy texture?",
+            "options": ["Whiskey Sour", "Margarita", "Negroni", "Mojito"],
+            "answer": 0
+        },
+        {
+            "question": "Which spirit is used in a Sazerac?",
+            "options": ["Rye whiskey", "Gin", "Rum", "Vodka"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail is made with gin, lemon juice, and honey?",
+            "options": ["Bee's Knees", "Tom Collins", "Martini", "Daiquiri"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail is traditionally served in a julep cup?",
+            "options": ["Mint Julep", "Old Fashioned", "Negroni", "Cosmopolitan"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail contains both gin and maraschino liqueur?",
+            "options": ["Aviation", "Martini", "Negroni", "Margarita"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail is made with bourbon, sweet vermouth, and Campari?",
+            "options": ["Boulevardier", "Negroni", "Manhattan", "Old Fashioned"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail is made with tequila, orange juice, and grenadine?",
+            "options": ["Tequila Sunrise", "Margarita", "Paloma", "Bloody Mary"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail is made with gin, lemon juice, and soda water?",
+            "options": ["Tom Collins", "Martini", "Mojito", "Daiquiri"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail is made with rum, lime juice, and sugar?",
+            "options": ["Daiquiri", "Margarita", "Mai Tai", "Negroni"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail is made with vodka, coffee liqueur, and cream?",
+            "options": ["White Russian", "Black Russian", "Espresso Martini", "Mudslide"],
+            "answer": 0
+        }
+    ],
+    "impossible": [
+        {
+            "question": "Which cocktail was invented at the Raffles Hotel in Singapore?",
+            "options": ["Singapore Sling", "Mai Tai", "Negroni", "Manhattan"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail uses Chartreuse as a main ingredient?",
+            "options": ["Last Word", "Martini", "Margarita", "Old Fashioned"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail is made with Fernet-Branca?",
+            "options": ["Toronto", "Negroni", "Cosmopolitan", "Margarita"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail is made with rye whiskey, absinthe, and bitters?",
+            "options": ["Sazerac", "Manhattan", "Old Fashioned", "Mint Julep"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail is made with gin, green Chartreuse, maraschino liqueur, and lime juice?",
+            "options": ["Last Word", "Aviation", "Negroni", "Martini"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail is made with Scotch whisky and Drambuie?",
+            "options": ["Rusty Nail", "Rob Roy", "Manhattan", "Old Fashioned"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail is made with mezcal, Aperol, and lime juice?",
+            "options": ["Naked and Famous", "Negroni", "Margarita", "Mai Tai"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail is made with gin, lemon juice, sugar, and champagne?",
+            "options": ["French 75", "Tom Collins", "Martini", "Mimosa"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail is made with rye whiskey, sweet vermouth, and Benedictine?",
+            "options": ["Vieux Carré", "Manhattan", "Boulevardier", "Old Fashioned"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail is made with rum, falernum, and lime juice?",
+            "options": ["Corn 'n' Oil", "Mai Tai", "Daiquiri", "Negroni"],
+            "answer": 0
+        }
+    ],
+    "fun": [
+        {
+            "question": "Which cocktail would a pirate most likely order?",
+            "options": ["Rum Punch", "Gin Fizz", "Cosmopolitan", "Appletini"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail sounds like a superhero's alter ego?",
+            "options": ["Dark and Stormy", "Tom Collins", "Old Fashioned", "Margarita"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail is named after a city that never sleeps?",
+            "options": ["Manhattan", "Moscow Mule", "Mai Tai", "Daiquiri"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail would you serve at a brunch party?",
+            "options": ["Mimosa", "Negroni", "Martini", "Sazerac"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail could you make with a coconut and a tiny umbrella?",
+            "options": ["Piña Colada", "Bloody Mary", "Old Fashioned", "Manhattan"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail shares its name with a famous Bond movie?",
+            "options": ["Casino Royale", "Mai Tai", "Cosmopolitan", "Tom Collins"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail would you most likely find at a beach bar?",
+            "options": ["Mai Tai", "Manhattan", "Negroni", "Martini"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail is famous for its fiery red color?",
+            "options": ["Bloody Mary", "White Russian", "Tom Collins", "Gin Fizz"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail is best for pretending you're on a tropical vacation?",
+            "options": ["Piña Colada", "Old Fashioned", "Negroni", "Martini"],
+            "answer": 0
+        },
+        {
+            "question": "Which cocktail is the official drink of Kentucky Derby?",
+            "options": ["Mint Julep", "Margarita", "Cosmopolitan", "Mai Tai"],
+            "answer": 0
+        }
+    ]
+}
